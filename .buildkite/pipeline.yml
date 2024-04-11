@@ -24,6 +24,7 @@ steps:
           setup:
             julia:
               - "1"
+              - "1.11"
             test_group:
               - "core_layers"
               - "contrib"
@@ -82,6 +83,7 @@ steps:
           setup:
             julia:
               - "1"
+              - "1.11"
             repo:
               - "Boltz"
               - "NeuralPDE#GPU"
@@ -117,6 +119,7 @@ steps:
           setup:
             julia:
               - "1"
+              - "1.11"
             test_group:
               - "core_layers"
               - "contrib"
@@ -180,6 +183,7 @@ steps:
           setup:
             julia:
               - "1"
+              - "1.11"
             repo:
               - "Boltz"
 
