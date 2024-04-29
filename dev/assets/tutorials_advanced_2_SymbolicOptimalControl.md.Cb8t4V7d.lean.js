@@ -497,11 +497,11 @@ const _hoisted_89 = {
 const _hoisted_90 = {
   style: { "overflow": "visible", "min-height": "1px", "min-width": "1px", "vertical-align": "-0.566ex" },
   xmlns: "http://www.w3.org/2000/svg",
-  width: "57.922ex",
+  width: "51.563ex",
   height: "2.262ex",
   role: "img",
   focusable: "false",
-  viewBox: "0 -750 25601.6 1000",
+  viewBox: "0 -750 22790.7 1000",
   "aria-hidden": "true"
 };
 const _hoisted_91 = /* @__PURE__ */ createStaticVNode("", 1);
@@ -517,37 +517,32 @@ const _hoisted_93 = /* @__PURE__ */ createBaseVNode("mjx-assistive-mml", {
     xmlns: "http://www.w3.org/1998/Math/MathML",
     display: "block"
   }, [
-    /* @__PURE__ */ createBaseVNode("mn", null, "0.072455"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "0.025831"),
     /* @__PURE__ */ createBaseVNode("mo", null, "+"),
     /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
       /* @__PURE__ */ createBaseVNode("mi", null, "x"),
       /* @__PURE__ */ createBaseVNode("mn", null, "2"),
       /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-      /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "1.339"),
-      /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "1"),
+      /* @__PURE__ */ createBaseVNode("mn", null, "0.74875"),
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
     ]),
+    /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
+    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "2"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
+    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "1"),
     /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
     /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
       /* @__PURE__ */ createBaseVNode("mi", null, "x"),
       /* @__PURE__ */ createBaseVNode("mn", null, "2"),
       /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "4"),
+      /* @__PURE__ */ createBaseVNode("mn", null, "1.9425"),
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
-    ]),
-    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "4"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "1.6696")
+    ])
   ])
 ], -1);
 const _hoisted_94 = {
@@ -557,13 +552,13 @@ const _hoisted_94 = {
   style: { "direction": "ltr", "display": "block", "text-align": "center", "margin": "1em 0", "position": "relative" }
 };
 const _hoisted_95 = {
-  style: { "overflow": "visible", "min-height": "1px", "min-width": "1px", "vertical-align": "-2.148ex" },
+  style: { "overflow": "visible", "min-height": "1px", "min-width": "1px", "vertical-align": "-1.602ex" },
   xmlns: "http://www.w3.org/2000/svg",
-  width: "54.128ex",
-  height: "5.451ex",
+  width: "34.796ex",
+  height: "4.905ex",
   role: "img",
   focusable: "false",
-  viewBox: "0 -1460 23924.7 2409.5",
+  viewBox: "0 -1460 15379.8 2168",
   "aria-hidden": "true"
 };
 const _hoisted_96 = /* @__PURE__ */ createStaticVNode("", 1);
@@ -579,36 +574,26 @@ const _hoisted_98 = /* @__PURE__ */ createBaseVNode("mjx-assistive-mml", {
     xmlns: "http://www.w3.org/1998/Math/MathML",
     display: "block"
   }, [
-    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "0.12784"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
-    /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
-      /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
-      /* @__PURE__ */ createBaseVNode("mn", null, "0.45007"),
-      /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-      /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-      /* @__PURE__ */ createBaseVNode("mfrac", null, [
-        /* @__PURE__ */ createBaseVNode("mrow", null, [
+    /* @__PURE__ */ createBaseVNode("mfrac", null, [
+      /* @__PURE__ */ createBaseVNode("mrow", null, [
+        /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
+          /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
           /* @__PURE__ */ createBaseVNode("mi", null, "x"),
           /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-          /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
-          /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
-            /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
-            /* @__PURE__ */ createBaseVNode("mn", null, "0.47943"),
-            /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-            /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-            /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-            /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
-          ])
+          /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+          /* @__PURE__ */ createBaseVNode("mn", null, "0.42736"),
+          /* @__PURE__ */ createBaseVNode("mo", null, "+"),
+          /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+          /* @__PURE__ */ createBaseVNode("mn", null, "1"),
+          /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
         ]),
-        /* @__PURE__ */ createBaseVNode("mn", null, "1.4108")
+        /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
+        /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+        /* @__PURE__ */ createBaseVNode("mn", null, "2"),
+        /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+        /* @__PURE__ */ createBaseVNode("mn", null, "0.10591")
       ]),
-      /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
+      /* @__PURE__ */ createBaseVNode("mn", null, "0.90507")
     ])
   ])
 ], -1);
@@ -619,13 +604,13 @@ const _hoisted_99 = {
   style: { "direction": "ltr", "display": "block", "text-align": "center", "margin": "1em 0", "position": "relative" }
 };
 const _hoisted_100 = {
-  style: { "overflow": "visible", "min-height": "1px", "min-width": "1px", "vertical-align": "-0.566ex" },
+  style: { "overflow": "visible", "min-height": "1px", "min-width": "1px", "vertical-align": "-2.148ex" },
   xmlns: "http://www.w3.org/2000/svg",
-  width: "57.885ex",
-  height: "2.262ex",
+  width: "65.981ex",
+  height: "5.428ex",
   role: "img",
   focusable: "false",
-  viewBox: "0 -750 25585.1 1000",
+  viewBox: "0 -1449.5 29163.6 2399",
   "aria-hidden": "true"
 };
 const _hoisted_101 = /* @__PURE__ */ createStaticVNode("", 1);
@@ -641,38 +626,40 @@ const _hoisted_103 = /* @__PURE__ */ createBaseVNode("mjx-assistive-mml", {
     xmlns: "http://www.w3.org/1998/Math/MathML",
     display: "block"
   }, [
-    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "0.099635"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
     /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
-      /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
-        /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
-        /* @__PURE__ */ createBaseVNode("mn", null, "0.017895"),
-        /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-        /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-        /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-        /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
-      ]),
-      /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
-      /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
-        /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
-        /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-        /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-        /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-        /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-        /* @__PURE__ */ createBaseVNode("mn", null, "1"),
-        /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
+      /* @__PURE__ */ createBaseVNode("mfrac", null, [
+        /* @__PURE__ */ createBaseVNode("mrow", null, [
+          /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+          /* @__PURE__ */ createBaseVNode("mn", null, "2")
+        ]),
+        /* @__PURE__ */ createBaseVNode("mrow", null, [
+          /* @__PURE__ */ createBaseVNode("mn", null, "0.34845"),
+          /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+          /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+          /* @__PURE__ */ createBaseVNode("mn", null, "1")
+        ])
       ]),
       /* @__PURE__ */ createBaseVNode("mo", null, "−"),
       /* @__PURE__ */ createBaseVNode("mi", null, "x"),
       /* @__PURE__ */ createBaseVNode("mn", null, "1"),
+      /* @__PURE__ */ createBaseVNode("mo", null, "+"),
+      /* @__PURE__ */ createBaseVNode("mn", null, "1.2349"),
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
     ]),
     /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "4.0302")
+    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "2"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "1"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "0.50576"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "1"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "0.47679")
   ])
 ], -1);
 const _hoisted_104 = {
@@ -704,38 +691,41 @@ const _hoisted_108 = /* @__PURE__ */ createBaseVNode("mjx-assistive-mml", {
     xmlns: "http://www.w3.org/1998/Math/MathML",
     display: "block"
   }, [
-    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "1"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-    /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
-      /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-      /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "2"),
-      /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "1"),
-      /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
-    ]),
-    /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "0.025445"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "0.10421"),
-    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
     /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
       /* @__PURE__ */ createBaseVNode("mi", null, "x"),
       /* @__PURE__ */ createBaseVNode("mn", null, "1"),
       /* @__PURE__ */ createBaseVNode("mo", null, "−"),
-      /* @__PURE__ */ createBaseVNode("mn", null, "0.32604"),
+      /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
+        /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
+        /* @__PURE__ */ createBaseVNode("mn", null, "0.0075181"),
+        /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+        /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+        /* @__PURE__ */ createBaseVNode("mn", null, "3"),
+        /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
+      ]),
       /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
     ]),
     /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
     /* @__PURE__ */ createBaseVNode("mi", null, "x"),
-    /* @__PURE__ */ createBaseVNode("mn", null, "1")
+    /* @__PURE__ */ createBaseVNode("mn", null, "2"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "+"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "0.1397"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+    /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+    /* @__PURE__ */ createBaseVNode("mn", null, "4"),
+    /* @__PURE__ */ createBaseVNode("mo", null, "⋅"),
+    /* @__PURE__ */ createBaseVNode("mrow", { "data-mjx-texclass": "INNER" }, [
+      /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "OPEN" }, "("),
+      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+      /* @__PURE__ */ createBaseVNode("mn", null, "1"),
+      /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+      /* @__PURE__ */ createBaseVNode("mn", null, "0.86375"),
+      /* @__PURE__ */ createBaseVNode("mo", null, "−"),
+      /* @__PURE__ */ createBaseVNode("mi", null, "x"),
+      /* @__PURE__ */ createBaseVNode("mn", null, "2"),
+      /* @__PURE__ */ createBaseVNode("mo", { "data-mjx-texclass": "CLOSE" }, ")")
+    ])
   ])
 ], -1);
 const _hoisted_109 = /* @__PURE__ */ createStaticVNode("", 15);

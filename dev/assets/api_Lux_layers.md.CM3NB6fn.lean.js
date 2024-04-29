@@ -1038,7 +1038,7 @@ const _hoisted_198 = /* @__PURE__ */ createBaseVNode("ul", null, [
 ], -1);
 const _hoisted_199 = /* @__PURE__ */ createBaseVNode("p", null, [
   /* @__PURE__ */ createBaseVNode("a", {
-    href: "https://github.com/LuxDL/Lux.jl/blob/3447cdd838798084b89720f51e4a3a603a40d7aa/src/layers/recurrent.jl#L494",
+    href: "https://github.com/LuxDL/Lux.jl/blob/744fd50c26d08c43c817bbbe507c8827097781b8/src/layers/recurrent.jl#L494",
     target: "_blank",
     rel: "noreferrer"
   }, "source")
@@ -1602,7 +1602,7 @@ const _hoisted_252 = /* @__PURE__ */ createBaseVNode("ul", null, [
 ], -1);
 const _hoisted_253 = /* @__PURE__ */ createBaseVNode("p", null, [
   /* @__PURE__ */ createBaseVNode("a", {
-    href: "https://github.com/LuxDL/Lux.jl/blob/3447cdd838798084b89720f51e4a3a603a40d7aa/src/layers/recurrent.jl#L308",
+    href: "https://github.com/LuxDL/Lux.jl/blob/744fd50c26d08c43c817bbbe507c8827097781b8/src/layers/recurrent.jl#L308",
     target: "_blank",
     rel: "noreferrer"
   }, "source")
